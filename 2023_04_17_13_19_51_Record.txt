@@ -1,0 +1,188 @@
+2.23153018951416 Mouse clicked at 334 46 with Left
+2.319770097732544 Mouse released at 334 46 with Left
+2.392040729522705 Mouse clicked at 334 46 with Left
+2.480086326599121 Mouse released at 334 46 with Left
+4.991398811340332 Mouse clicked at 781 291 with Left
+5.079424858093262 Mouse released at 781 291 with Left
+7.463852405548096 Mouse clicked at 573 64 with Left
+7.583903789520264 Mouse released at 573 64 with Left
+11.09576153755188 Mouse clicked at 54 123 with Left
+11.199785709381104 Mouse released at 54 123 with Left
+13.951603174209595 Mouse clicked at 95 337 with Left
+14.031328201293945 Mouse released at 95 337 with Left
+14.679908752441406 Mouse clicked at 95 337 with Right
+14.823654174804688 Mouse released at 95 337 with Right
+16.503258228302002 Mouse clicked at 184 462 with Left
+16.615819931030273 Mouse released at 184 462 with Left
+19.55926823616028 Mouse clicked at 387 492 with Left
+19.68759274482727 Mouse released at 387 492 with Left
+25.72776961326599 Mouse clicked at 656 146 with Left
+25.831777811050415 Mouse released at 656 146 with Left
+26.39933729171753 Mouse clicked at 933 15 with Left
+26.47997808456421 Mouse released at 934 15 with Left
+27.16733956336975 Mouse clicked at 1897 26 with Left
+27.263277769088745 Mouse released at 1897 26 with Left
+28.559568166732788 Mouse clicked at 958 588 with Left
+28.647054433822632 Mouse released at 958 588 with Left
+32.61585593223572 Key special Key.cmd pressed
+32.92178201675415 Key char g pressed
+33.08822321891785 Key char g released
+33.585174322128296 Key special Key.cmd released
+40.88735771179199 Mouse clicked at 142 169 with Left
+40.99194526672363 Mouse released at 142 169 with Left
+44.33557963371277 Mouse clicked at 1313 781 with Left
+44.447632789611816 Mouse released at 1313 781 with Left
+45.45528960227966 Mouse clicked at 936 556 with Left
+45.55218768119812 Mouse released at 936 556 with Left
+45.99988675117493 Mouse clicked at 884 629 with Left
+46.09505271911621 Mouse released at 884 629 with Left
+46.703505516052246 Mouse clicked at 867 742 with Left
+46.807276487350464 Mouse released at 867 742 with Left
+50.15986156463623 Mouse clicked at 1512 130 with Left
+50.26331877708435 Mouse released at 1512 130 with Left
+51.38348031044006 Mouse clicked at 1238 78 with Left
+51.45570158958435 Mouse released at 1238 78 with Left
+55.70397114753723 Mouse clicked at 627 446 with Left
+55.79145169258118 Mouse released at 627 446 with Left
+64.31984972953796 Mouse clicked at 632 496 with Left
+64.4235327243805 Mouse released at 632 496 with Left
+65.42331266403198 Mouse clicked at 665 344 with Left
+65.54335880279541 Mouse released at 665 344 with Left
+66.1435923576355 Mouse clicked at 649 393 with Left
+66.23999428749084 Mouse released at 649 393 with Left
+68.56805109977722 Mouse clicked at 662 285 with Left
+68.66370487213135 Mouse released at 662 285 with Left
+70.07975220680237 Mouse clicked at 664 240 with Left
+70.1680645942688 Mouse released at 664 240 with Left
+71.08754396438599 Mouse clicked at 687 194 with Left
+71.19187998771667 Mouse released at 687 194 with Left
+73.91202139854431 Mouse clicked at 1328 123 with Left
+74.01536440849304 Mouse released at 1328 123 with Left
+82.2401180267334 Mouse clicked at 818 411 with Left
+82.3034827709198 Mouse released at 818 411 with Left
+84.3515465259552 Mouse clicked at 32 177 with Left
+84.44830083847046 Mouse released at 32 177 with Left
+86.49553418159485 Mouse clicked at 1148 22 with Left
+86.5755500793457 Mouse released at 1148 22 with Left
+87.5198380947113 Mouse clicked at 400 194 with Left
+87.63197493553162 Mouse released at 400 194 with Left
+88.25958132743835 Key special Key.shift pressed
+88.39613318443298 Key special Key.shift released
+88.65499448776245 Key char w pressed
+88.79714918136597 Key char e pressed
+88.85575556755066 Key char w released
+88.90432715415955 Key char i pressed
+88.94638252258301 Key char e released
+89.0175130367279 Key char i released
+89.38416075706482 Key char s pressed
+89.46741104125977 Key char s released
+89.50172996520996 Key char h pressed
+89.56576013565063 Key char h released
+89.61526346206665 Key char e pressed
+89.69609999656677 Key char n pressed
+89.74303317070007 Key char e released
+89.77930855751038 Key char n released
+89.87545728683472 Key char m pressed
+89.96071743965149 Key char m released
+90.03957176208496 Key char 1 pressed
+90.11822867393494 Key char 1 released
+90.7927463054657 Key char h pressed
+90.85681748390198 Key char h released
+90.97561120986938 Key char u pressed
+91.07864499092102 Key char i pressed
+91.09563493728638 Key char u released
+91.17666721343994 Key char i released
+91.32317972183228 Key char 1 pressed
+91.41160941123962 Key char 1 released
+91.63496947288513 Key char z pressed
+91.76282596588135 Key char i pressed
+91.77481651306152 Key char z released
+91.84878015518188 Key char i released
+91.91926050186157 Key char d pressed
+91.9854965209961 Key char o pressed
+92.04793453216553 Key char d released
+92.09524703025818 Key char o released
+92.11735486984253 Key char n pressed
+92.19449591636658 Key char g pressed
+92.20650720596313 Key char n released
+92.30406332015991 Key char g released
+92.48981547355652 Key char 1 pressed
+92.61084175109863 Key char 1 released
+93.10295176506042 Key char j pressed
+93.19397211074829 Key char i pressed
+93.21798467636108 Key char j released
+93.2409884929657 Key char e pressed
+93.28406929969788 Key char i released
+93.32927060127258 Key char e released
+93.50622749328613 Key char s pressed
+93.5965223312378 Key char h pressed
+93.63652992248535 Key char s released
+93.66769313812256 Key char u pressed
+93.69968700408936 Key char h released
+93.75586533546448 Key char u released
+93.7981505393982 Key special Key.f1 pressed
+93.83116793632507 Key special Key.f1 released
+94.07269930839539 Key char 1 pressed
+94.47188591957092 Key char 1 released
+94.47388076782227 Key special Key.enter pressed
+94.47487425804138 Key special Key.enter released
+96.36409091949463 Key char j pressed
+96.49650359153748 Key char j released
+96.49850392341614 Key char i pressed
+96.51553463935852 Key char e pressed
+96.54358744621277 Key char i released
+96.60671544075012 Key char e released
+96.81432867050171 Key char s pressed
+96.90566372871399 Key char h pressed
+96.9174394607544 Key char s released
+97.00423884391785 Key char h released
+97.0574300289154 Key char a pressed
+97.10459589958191 Key char a released
+97.63700699806213 Key special Key.backspace pressed
+97.71143293380737 Key special Key.backspace released
+98.12411308288574 Key char u pressed
+98.20824766159058 Key char u released
+98.48665046691895 Key char 1 pressed
+98.61000180244446 Key char 1 released
+98.68558239936829 Key special Key.enter pressed
+98.81905579566956 Key special Key.enter released
+100.93509817123413 Mouse clicked at 473 480 with Left
+101.04801034927368 Mouse released at 473 480 with Left
+112.99230718612671 Mouse clicked at 1778 16 with Left
+113.07978630065918 Mouse released at 1778 16 with Left
+114.23142313957214 Mouse clicked at 46 243 with Left
+114.30386328697205 Mouse released at 46 243 with Left
+115.7357451915741 Mouse clicked at 662 416 with Left
+115.8237509727478 Mouse released at 662 416 with Left
+115.90421962738037 Mouse clicked at 662 416 with Left
+116.00723767280579 Mouse released at 662 416 with Left
+116.856440782547 Mouse clicked at 571 487 with Left
+116.95200300216675 Mouse released at 571 487 with Left
+117.00742888450623 Mouse clicked at 571 487 with Left
+117.143474817276 Mouse released at 571 487 with Left
+132.656023979187 Mouse clicked at 586 549 with Left
+132.74303889274597 Mouse released at 586 549 with Left
+132.82416605949402 Mouse clicked at 586 549 with Left
+132.92841863632202 Mouse released at 586 549 with Left
+132.95963716506958 Mouse clicked at 586 549 with Left
+133.06400156021118 Mouse released at 586 549 with Left
+133.91183352470398 Mouse clicked at 1650 109 with Left
+133.9278712272644 Mouse released at 1650 109 with Left
+134.1912796497345 Mouse clicked at 1650 109 with Left
+134.20726680755615 Mouse released at 1650 109 with Left
+135.28798937797546 Mouse clicked at 1630 111 with Left
+135.4158754348755 Mouse released at 1630 111 with Left
+139.70406866073608 Mouse clicked at 13 660 with Left
+139.80812454223633 Mouse released at 13 660 with Left
+142.56039595603943 Mouse clicked at 723 477 with Left
+142.6884059906006 Mouse released at 723 477 with Left
+143.7206552028656 Mouse clicked at 723 477 with Left
+143.8245415687561 Mouse released at 723 477 with Left
+144.75161981582642 Mouse clicked at 921 465 with Left
+144.86363434791565 Mouse released at 921 465 with Left
+145.92788004875183 Mouse clicked at 921 465 with Left
+146.02392411231995 Mouse released at 921 465 with Left
+153.24063348770142 Mouse clicked at 39 590 with Left
+153.32750797271729 Mouse released at 39 590 with Left
+155.48073434829712 Mouse clicked at 1751 261 with Left
+155.59261298179626 Mouse released at 1751 261 with Left

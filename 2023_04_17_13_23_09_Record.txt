@@ -1,0 +1,130 @@
+1.045445442199707 Mouse clicked at 336 49 with Left
+1.1655514240264893 Mouse released at 336 49 with Left
+1.2447080612182617 Mouse clicked at 336 49 with Left
+1.3649168014526367 Mouse released at 336 49 with Left
+3.1808111667633057 Mouse clicked at 747 290 with Left
+3.309541702270508 Mouse released at 747 290 with Left
+4.973551273345947 Mouse clicked at 571 68 with Left
+5.085473537445068 Mouse released at 571 68 with Left
+6.501538991928101 Mouse clicked at 57 118 with Left
+6.636558532714844 Mouse released at 57 118 with Left
+8.165356874465942 Mouse clicked at 93 333 with Left
+8.285505771636963 Mouse released at 93 333 with Left
+8.884486198425293 Mouse clicked at 93 333 with Right
+9.013532400131226 Mouse released at 93 333 with Right
+10.277079820632935 Mouse clicked at 156 455 with Left
+10.405273914337158 Mouse released at 156 455 with Left
+11.844643354415894 Mouse clicked at 372 484 with Left
+11.972765445709229 Mouse released at 372 484 with Left
+13.06959319114685 Mouse clicked at 311 239 with Left
+13.17275071144104 Mouse released at 311 239 with Left
+16.20051121711731 Key special Key.shift pressed
+16.34195590019226 Key special Key.shift released
+21.1043598651886 Key special Key.caps_lock pressed
+21.189466953277588 Key special Key.caps_lock released
+22.41799831390381 Key char s pressed
+22.48941421508789 Key char s released
+23.360544443130493 Key special Key.caps_lock pressed
+23.467578172683716 Key special Key.caps_lock released
+24.949690103530884 Key char u pressed
+25.024823427200317 Key char u released
+25.034707069396973 Key char b pressed
+25.103384256362915 Key char b released
+25.797122716903687 Key special Key.space pressed
+25.865509033203125 Key special Key.space released
+26.146577835083008 Key char f pressed
+26.25250792503357 Key char f released
+27.24663543701172 Key char i pressed
+27.316763639450073 Key char i released
+27.318761587142944 Key char r pressed
+27.38288903236389 Key char r released
+27.707221746444702 Key char s pressed
+27.83038878440857 Key char s released
+27.900590181350708 Key char t pressed
+27.958887815475464 Key char t released
+28.486857652664185 Key char v pressed
+28.580152988433838 Key char v released
+28.733418464660645 Key char b pressed
+28.80484175682068 Key char b released
+28.81282663345337 Key char a pressed
+28.914637804031372 Key char a released
+30.835694551467896 Key special Key.shift pressed
+30.948718547821045 Key char ( pressed
+31.01474642753601 Key special Key.shift released
+31.029749155044556 Key char 9 released
+31.31143832206726 Key special Key.shift pressed
+31.545241832733154 Key char ) pressed
+31.598403692245483 Key special Key.shift released
+31.618416786193848 Key char 0 released
+32.670186042785645 Key special Key.enter pressed
+32.73398447036743 Key special Key.enter released
+37.659823179244995 Key special Key.caps_lock pressed
+37.75692081451416 Key special Key.caps_lock released
+37.97630858421326 Key char m pressed
+38.035189151763916 Key char m released
+38.48572373390198 Key special Key.caps_lock pressed
+38.56289076805115 Key special Key.caps_lock released
+39.25430202484131 Key char s pressed
+39.371381759643555 Key char s released
+39.40640211105347 Key char g pressed
+39.47439956665039 Key char g released
+40.50685906410217 Key special Key.caps_lock pressed
+40.58921456336975 Key special Key.caps_lock released
+40.871594190597534 Key char b pressed
+40.9558207988739 Key char b released
+41.25044512748718 Key special Key.caps_lock pressed
+41.33856558799744 Key special Key.caps_lock released
+42.82942485809326 Key char o pressed
+42.90758442878723 Key char o released
+42.94487023353577 Key char x pressed
+43.003644943237305 Key char x released
+46.139532804489136 Key special Key.shift pressed
+46.293585777282715 Key char ( pressed
+46.361632108688354 Key char ( released
+46.393641233444214 Key special Key.shift released
+48.365763664245605 Key special Key.shift pressed
+48.52398061752319 Key char " pressed
+48.5811083316803 Key char " released
+48.601226568222046 Key special Key.shift released
+50.23896026611328 Key char h pressed
+50.30615258216858 Key char h released
+50.351237058639526 Key char e pressed
+50.435734272003174 Key char e released
+50.77062916755676 Key char l pressed
+50.84177803993225 Key char l released
+50.91944599151611 Key char l pressed
+50.989540338516235 Key char l released
+51.1298086643219 Key char o pressed
+51.1898193359375 Key char o released
+52.86814999580383 Key special Key.shift pressed
+52.99055576324463 Key char " pressed
+53.05006670951843 Key special Key.shift released
+53.05607867240906 Key char ' released
+53.788737297058105 Key special Key.shift pressed
+53.97111797332764 Key char ) pressed
+54.03132152557373 Key char ) released
+54.03492569923401 Key special Key.shift released
+58.25369930267334 Mouse clicked at 104 77 with Left
+58.35788941383362 Mouse released at 104 77 with Left
+60.5497305393219 Mouse clicked at 97 357 with Left
+60.66190981864929 Mouse released at 97 357 with Left
+62.11738109588623 Mouse clicked at 283 460 with Left
+62.22944521903992 Mouse released at 283 460 with Left
+63.445918798446655 Mouse clicked at 286 494 with Left
+63.56576752662659 Mouse released at 286 494 with Left
+65.58989024162292 Mouse clicked at 741 588 with Left
+65.71000456809998 Mouse released at 741 588 with Left
+67.48582243919373 Mouse clicked at 433 628 with Left
+67.62915110588074 Mouse released at 433 628 with Left
+70.59800958633423 Mouse clicked at 934 21 with Left
+70.67778062820435 Mouse released at 934 21 with Left
+77.97376036643982 Mouse clicked at 114 112 with Left
+78.10220432281494 Mouse released at 114 112 with Left
+80.18173885345459 Mouse clicked at 1213 329 with Left
+80.30939650535583 Mouse released at 1213 329 with Left
+86.18910002708435 Mouse clicked at 989 636 with Left
+86.2855019569397 Mouse released at 989 636 with Left
+88.05330872535706 Mouse clicked at 7 608 with Left
+88.19766783714294 Mouse released at 7 608 with Left
+89.74941539764404 Mouse clicked at 1372 415 with Left
+89.88535737991333 Mouse released at 1372 415 with Left
